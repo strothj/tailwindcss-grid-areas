@@ -2,7 +2,14 @@
   "name": "@savvywombat/tailwindcss-grid-areas",
   "version": "1.0.1",
   "description": "A plugin to provide TailwindCSS utilities for grid areas.",
-  "keywords": ["tailwind", "tailwindcss", "css", "css grid", "css grid area", "grid-template-areas"],
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "css",
+    "css grid",
+    "css grid area",
+    "grid-template-areas"
+  ],
   "license": "MIT",
   "author": "Stuart Jones <stuart@savvywombat.com.au>",
   "repository": {
@@ -33,7 +40,7 @@
     "lodash": "^4.17.20",
     "postcss": "^8.1.1",
     "prettier": "^2.1.2",
-    "tailwindcss": "^1.9.1"
+    "tailwindcss": "^2.0.0-alpha.1"
   },
   "babel": {
     "presets": [
